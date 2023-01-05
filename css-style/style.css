@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header-content{
+    text-align: center;
+    padding: 200px 200px;
+    background-image: url('../images/donation13.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.header-title{
+    color: white;
+    margin-bottom: 20px;
+    font-size: 100px;
+    
+}
+.header-description{
+    margin-bottom: 40px;
+    color: white;
+    font-size: 20px;
+}
+.primary-btn{
+    padding: 20px 30px;
+    border: none;
+    font-size: 10px;
+    background: Crimson;
+    font-weight: 1000;
+    font-size: larger;
+    color: white;
+    border-radius: 5px;
+}
+.section-head{
+    text-align: center;
+    padding-top: 180px;
+    
+}
+.section-title{
+    font-size: 60px;
+    margin-bottom: 40px;
+    
+}
+.section-description{
+    color: DimGray;
+    padding-bottom: 80px;
+}
+
+/*------------------*/
+
+
+.main-button{
+    padding: 30px 20px;
+    border: none;
+    font-size: 40px;
+    margin: 15px;
+    color: Gray;
+    margin-bottom: 70px;
+}
+
+.money-button{
+    
+    text-align: center;
+    border-radius:10px;
+    border-radius: 5px;
+    color: Gainsboro;
+    margin-bottom: 70px;
+    
+}
+
+
